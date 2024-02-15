@@ -1,13 +1,25 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(211, 156, 255);
+    color:  black;
 }
 h1{
-    font-size: 70px;
+    font-size: 80px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 100px;
 }
 ul{
-    font-size: 40px;
-}  
-li{
-    font-size: 20px;
-    font-style: italic;
+    font-size: 25px;
+}
+.feu{
+    color: red;
+}
+.bleu{
+    color: blue;
+}
+.vert{
+    color: green;
 }
