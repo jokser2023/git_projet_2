@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-size: 70px;
+}
+ul{
+    font-size: 40px;
+}  
+li{
+    font-size: 20px;
+    font-style: italic;
+}
