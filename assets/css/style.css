@@ -4,22 +4,28 @@ body{
 }
 h1{
     font-size: 80px;
+    background-color: rgb(224, 192, 253);
 }
 h2{
     font-size: 50px;
+    background-color: rgb(224, 192, 253);
 }
 h3{
     font-size: 100px;
+    background-color: rgb(224, 192, 253);
 }
-ul{
+p{
     font-size: 25px;
 }
 .feu{
     color: red;
+    font-style: italic;
 }
 .bleu{
     color: blue;
+    font-style: italic;
 }
 .vert{
     color: green;
+    font-style: italic;
 }
